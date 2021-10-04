@@ -1,6 +1,6 @@
 # business_card_app
 
-A new Flutter application.
+A new Flutter application for begineers to start.
 
 ## Getting Started
 
